@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/Kindex/Kindex"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#262834",
+    "navigationBarTitleText": "wxChart-demo",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#1C1F27"
+    
+  },
+  "sitemapLocation": "sitemap.json"
+}

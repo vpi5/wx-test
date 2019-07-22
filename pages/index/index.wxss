@@ -1,0 +1,36 @@
+/**index.wxss**/
+
+
+.index_css{
+  position: fixed;
+  left: 0;top: 0;bottom: 0;right: 0;
+  background: #1C1F27
+}
+
+.index_bottom {
+  position: absolute;
+  left: 0;bottom: 0;
+  height: 50px;
+  width: 100%;
+  display: block;
+  background: #FFF;
+}
+
+.list{
+  width: 50%;
+  height: 100%;
+  display: inline-block;
+  background: #ccc;
+}
+
+.list image{
+  width: 25px;
+  height: 25px;
+  display: block; 
+  margin-left: 43%;      
+}
+
+.list text{
+  display:flex;                   
+  justify-content: center;     
+}

@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="index_css">
+  <view class="index_bottom">
+    <view class="list" bindtap="goDemoEcharts">
+      <image src="../../image/ts.png"></image>
+      <text>K线图形</text>
+    </view>
+    <view class="list">
+      <image src="../../image/ts.png"></image>
+      <text>分时图形</text>
+    </view>
+  </view>
+</view>
